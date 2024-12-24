@@ -326,7 +326,7 @@ const handleOpensea = () => {
 
   return (
     <s.Screen>
-        <div className="main2"> 
+     
       <div className="main" style={{display:"flex", 
       backgroundImage: `url(${background})`,
       backgroundAttachment: "fixed",
@@ -984,7 +984,7 @@ const handleOpensea = () => {
 
 
 </s.Container>
-      </div></div>
+      </div>
     </s.Screen>
   );
 }
