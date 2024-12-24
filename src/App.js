@@ -702,7 +702,7 @@ const handleOpensea = () => {
                 style={{ textAlign: "center", color: "var(--accent-text)", fontSize: 25, marginLeft: "60px" }}
               >
                 
-                {data.totalSupply} 11 / {CONFIG.MAX_SUPPLY}
+              11 / {CONFIG.MAX_SUPPLY}
               </s.TextTitle2>
               <s.SpacerLargeX />
               <s.TextTitle2
