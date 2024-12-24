@@ -738,7 +738,7 @@ const handleOpensea = () => {
                         }}
                       >
                         
-                      Sonic Mainnet is not working correctly.
+                      Connection to Sonic Mainnet is not working correctly.
                       </s.TextDescription>
                       <s.TextDescription
                         style={{
