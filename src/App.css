@@ -98,9 +98,11 @@ b {
 
   @media screen and (min-width: 1400px) {
   body {
-      margin-left: 400px;
+      
     }
-    
+    div.big {
+    margin-left: 400px;
+  }
   }
   
   @media screen and (max-width: 700px) {
