@@ -690,7 +690,7 @@ const handleOpensea = () => {
             <>
              <s.SpacerXSmall />
               <s.TextTitle
-                style={{ textAlign: "center", color: "var(--accent-text)" }}
+                style={{ textAlign: "center", color: "var(--accent-text)", marginLeft: "60px" }}
               >
                 The sale has ended.
               </s.TextTitle>
@@ -702,7 +702,7 @@ const handleOpensea = () => {
                 style={{ textAlign: "center", color: "var(--accent-text)", fontSize: 25, marginLeft: "60px" }}
               >
                 
-                {data.totalSupply} / {CONFIG.MAX_SUPPLY}
+                {data.totalSupply} 11 / {CONFIG.MAX_SUPPLY}
               </s.TextTitle2>
               <s.SpacerLargeX />
               <s.TextTitle2
