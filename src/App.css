@@ -107,6 +107,7 @@ b {
   
   @media screen and (max-width: 700px) {
     body {
+background-color: #000000;
       font-size: 20px;
     }
   
