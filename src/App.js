@@ -310,7 +310,7 @@ function App() {
 
   const handleTg = () => {
     window.open(
-      'https://twitter.com/',
+      'https://t.me/sonic_punks',
       '_blank'
     );
   };
