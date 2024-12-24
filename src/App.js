@@ -565,7 +565,7 @@ const handleOpensea = () => {
             Every Punk has distinctive attributes, which are determined by a rarity system. 
             We also want to offer our holders the possibility of participating in our future 
             staking system to claim $SPUNK tokens daily to generate transactions on the Sonic 
-            Network and participate in the collection of $S points`
+            Network and participate in the collection of $S points
    </s.TextSubTitle>
       <s.SpacerLargeXX />
       
