@@ -334,7 +334,7 @@ const handleOpensea = () => {
       flex: "1",
       ai: "1"
        }}>
-<s.SpacerLargeX />
+
 <s.Container
         ai={"center"}>
 
